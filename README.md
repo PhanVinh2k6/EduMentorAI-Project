@@ -1,4 +1,28 @@
-# EduMentorAI-Project
-EduMentor AI - Gia sư ảo cá nhân hóa toàn diện 
-EduMentor AI là một ứng dụng web tích hợp AI để tự động tạo và quản lý nội dung giáo dục. 
-Dự án được phát triển bởi nhóm AImpress
+# EduMentor AI
+
+Ứng dụng hỗ trợ giảng dạy thông minh bằng **Streamlit** và **SQLite**.
+
+## Tính năng
+
+* Tạo bài giảng tự động bằng AI (Gemini).
+* Sinh câu hỏi kiểm tra (quiz trắc nghiệm/tự luận).
+* Tạo hình minh họa bằng AI.
+* Quản lý và lưu trữ bài học.
+* Thống kê tiến độ học tập.
+
+## Cài đặt
+
+```bash
+git clone https://github.com/<your-repo>/edumentor-ai.git
+cd edumentor-ai
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## API Keys
+
+* Gemini API (tạo nội dung và câu hỏi).
+
+## Nhóm phát triển
+
+Phan Hà Thái Vinh – Dương Văn Thảo – Dương Công Vinh
