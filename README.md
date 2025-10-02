@@ -1,6 +1,6 @@
 # EduMentor AI
 
-Ứng dụng hỗ trợ giảng dạy thông minh bằng **Streamlit** và **SQLite**..
+Ứng dụng hỗ trợ giảng dạy thông minh bằng **Streamlit** và **SQLite**.
 
 ## Tính năng
 
